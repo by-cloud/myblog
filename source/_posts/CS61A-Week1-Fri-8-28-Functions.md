@@ -106,53 +106,57 @@ Names can also be bound to functions. We can use assignment statements to give n
 In Python, names are often called *variable names* or *variables* because they can be bound to different values in the course of executing a program. When a name is bound to a new value through assignment, it is no longer bound to any previous value. One can even bind built-in names to new values.
 
 When executing an assignment statement, Python evaluates the expression to the right of = before changing the binding to the name on the left. Therefore, one can refer to a name in right-side expression, even if it is the name to be bound by the assignment statement.
-```
-**>>>** x = 2
 
-**>>>** x = x + 1
+```python
+>>> x = 2
 
-**>>>** x
+>>> x = x + 1
+
+>>> x
 
 3
 ```
 
 We can also assign multiple values to multiple names in a single statement, where names on the left of = and expressions on the right of = are separated by commas.
-```
-**>>>** area, circumference = pi * radius * radius, 2 * pi * radius
 
-**>>>** area
+```python
+>>> area, circumference = pi * radius * radius, 2 * pi * radius
+
+>>> area
 
 314.1592653589793
 
-**>>>** circumference
+>>> circumference
 
 62.83185307179586
 ```
 
 Changing the value of one name does not affect other names. Below, even though the name area was bound to a value defined originally in terms of radius, the value of area has not changed. Updating the value of area requires another assignment statement.
-```
-**>>>** radius = 11
 
-**>>>** area
+```python
+>>> radius = 11
+
+>>> area
 
 314.1592653589793
 
-**>>>** area = pi * radius * radius
+>>> area = pi * radius * radius
 
 380.132711084365
 ```
 
 With multiple assignment, *all* expressions to the right of = are evaluated before *any* names to the left are bound to those values. As a result of this rule, swapping the values bound to two names can be performed in a single statement.
-```
-**>>>** x, y = 3, 4.5
 
-**>>>** y, x = x, y
+```python
+>>> x, y = 3, 4.5
 
-**>>>** x
+>>> y, x = x, y
+
+>>> x
 
 4.5
 
-**>>>** y
+>>> y
 
 3
 ```

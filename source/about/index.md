@@ -8,7 +8,7 @@ The auther of this site is [me](https://github.com/by-cloud). An undergraduate s
 
 ### $0 = this site
 
-This site is my personal blog. Using [Netlify](https://www.netlify.com/) to build personal blog is now a good fit for me.
+This site is watching my studying process. Using [Netlify](https://www.netlify.com/) to build personal blog is now a good fit for me.
 
 ### $x = posts
 

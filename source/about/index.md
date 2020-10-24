@@ -15,3 +15,5 @@ This site is watching my studying process. Using [Netlify](https://www.netlify.c
 Posts are outputs that help me handle inputs.
 I organize posts when reading a book, taking a course, reviewing notes and wrangling my thoughts.
 Post [Issues](https://github.com/by-cloud/myblog/issues) if you have any issues and feel free to [e-mail me](mailto:claude.by.cloud@gmail.com).
+
+## Friends

@@ -3,7 +3,7 @@ title: 'CS61A Week1 Wed 8/26: Computer Science'
 date: 2020-10-23 04:26:56
 categories: 
 - [cs61a]
-tags: [cs61a, note]
+tags: [cs61a, Note]
 ---
 Computer Scientists’ Common Enemy: Complexity
 Weapon for fighting: Abstraction

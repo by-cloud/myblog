@@ -1,8 +1,8 @@
 ---
 title: How to write a good paper
 date: 2020-10-25 14:21:25
-categories: Utility
-tags: Utility
+categories: [Utility]
+tags: [Utility, Note]
 ---
 **Source:** ???
 

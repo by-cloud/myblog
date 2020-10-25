@@ -3,7 +3,7 @@ title: 'CS61A Week1 Fri 8/28: Functions'
 date: 2020-10-23 05:39:17
 categories:
 - [cs61a]
-tags: [cs61a, note]
+tags: [cs61a, Note]
 ---
 ## Ch. 1.1
 

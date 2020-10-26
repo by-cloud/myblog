@@ -209,3 +209,5 @@ How to draw a environment diagram:
 <https://berkeley-cs61as.github.io/textbook/how-to-draw-environment-diagrams.html>
 
 <https://inst.eecs.berkeley.edu/~cs61a/su10/resources/Joshua%20Cantrell%20Notes/8-EnvDiagrams.pdf>
+
+### **Defining Functions**

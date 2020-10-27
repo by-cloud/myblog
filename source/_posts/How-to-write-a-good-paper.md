@@ -1,10 +1,10 @@
 ---
-title: How to write a good paper
+title: How to write a good review
 date: 2020-10-25 14:21:25
 categories: [Utility]
 tags: [Utility, Note]
 ---
-**Source:** ???
+**Source:** [CVPR 2020 Tutorial - "How to write a good review?" Live on June 14th, 2020](https://www.youtube.com/watch?v=W1zPtTt43LI)
 
 The community is like a market.
 

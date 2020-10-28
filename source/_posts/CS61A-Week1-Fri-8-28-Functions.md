@@ -264,3 +264,5 @@ E.g., to look up some name in the body of the square function:
 - If not found, look for it in the global frame.
 (Built-in names like “max” are in the global frame too,
 but we don’t draw them in environment diagrams.)
+
+## Related Resources

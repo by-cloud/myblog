@@ -4,6 +4,7 @@ date: 2020-10-23 05:39:17
 categories:
 - [cs61a]
 tags: [cs61a, Note]
+mathjax: true
 ---
 ## Ch. 1.1
 
@@ -231,7 +232,7 @@ Execution procedure for def statements:
 2. Set the body of that function to be everything indented after the first line
 3. Bind \<name> to that function in the current frame
 
-### Calling User-Defined Functions
+### **Calling User-Defined Functions**
 
 Procedure for calling/applying user-defined functions (version 1):
 
@@ -241,7 +242,7 @@ Procedure for calling/applying user-defined functions (version 1):
 
 > A function’s signature has all the information needed to create a local frame.
 
-### Looking Up Names in Environments
+### **Looking Up Names in Environments**
 
 Every expression is evaluated in the context of an environment.
 
@@ -266,3 +267,68 @@ E.g., to look up some name in the body of the square function:
 but we don’t draw them in environment diagrams.)
 
 ## Related Resources
+
+### [Jennifer's Environment Diagram Cheat Sheet](https://github.com/by-cloud/cs61a_fall2020/blob/master/resources/week2/Jennifer's%20Environment%20Diagram%20Cheat%20Sheet.pdf)
+
+#### Lambda Functions
+
+`lambda x, y: x + y`
+
+Variables before colon are parameters; expression after colon is return value.
+
+```python
+>>> lambda :10
+Function
+>>> (lambda :10)()
+10
+
+>>> lambda x, y: x + y
+Function
+>>> (lambda x, y: x + y)(2 + 3)
+5
+```
+
+#### Environment Diagram when Calling Recursive Functions
+
+```python
+def f(x):
+    if x == 0:
+        return 0
+    else:
+        return f(x - 1)
+```
+
+```text
+$ python3
+Python 3.7.3 (v3.7.3:ef4ec6ed12, Mar 25 2019, 16:52:21) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> def f(x):
+...     if x == 0:
+...         return 0
+...     else:
+...         return f(x - 1)
+...
+>>> f(4)
+0
+>>> f(3)
+0
+```
+
+> Global frame\
+> f $\rightarrow$ func f(x) [parent=Global]
+> > f1: f [parent=Global]\
+> > x | 3\
+> > Return Value | eval(f(x - 1))
+> ---
+> > f2: f [parent=Global]\
+> > x | 2\
+> > Return Value | eval(f(x - 1))
+> ---
+> > f3: f [parent=Global]\
+> > x | 1\
+> > Return Value | eval(f(x - 1))
+> ---
+> > f4: f [parent=Global]\
+> > x | 0\
+> > Return Value | 0

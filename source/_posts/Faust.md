@@ -1,8 +1,8 @@
 ---
 title: Faust
 date: 2020-10-25 16:18:25
-categories: [Reads]
-tags: [Reads]
+categories: [Readings]
+tags: [Readings]
 ---
 ## 《浮士德》里的魔 （冯至）
 

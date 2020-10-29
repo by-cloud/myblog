@@ -3,7 +3,7 @@ title: 'CS61A Week1 Fri 8/28: Functions'
 date: 2020-10-23 05:39:17
 categories:
 - [cs61a]
-tags: [cs61a, Note]
+tags: [cs61a, Notes]
 mathjax: true
 ---
 ## Ch. 1.1
@@ -300,7 +300,7 @@ def f(x):
 
 ```text
 $ python3
-Python 3.7.3 (v3.7.3:ef4ec6ed12, Mar 25 2019, 16:52:21) 
+Python 3.7.3 (v3.7.3:ef4ec6ed12, Mar 25 2019, 16:52:21)
 [Clang 6.0 (clang-600.0.57)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> def f(x):
@@ -332,3 +332,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 > > f4: f [parent=Global]\
 > > x | 0\
 > > Return Value | 0
+
+### [Welcome to Computer Science by Sequoia](https://sequoiatree.github.io/welcome-to-computer-science.html)
+
+This essay is important, I copy it as a new post so that I will never lost it.

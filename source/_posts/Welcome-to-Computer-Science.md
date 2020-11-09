@@ -4,6 +4,8 @@ date: 2020-11-09 20:48:58
 categories: [Readings]
 tags: [Readings]
 ---
+**source:** <https://sequoiatree.github.io/welcome-to-computer-science.html>
+
 Hi there! I'm happy you're here. Before we start talking about programming, let's take a minute to reflect on why we're here and what lies ahead. This chapter isn't going to be very technical at all; these are just some things I wish someone had told me when I first got into programming. Hopefully you find it a little bit enlightening.
 
 ## What is computer science

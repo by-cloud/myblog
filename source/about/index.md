@@ -25,3 +25,7 @@ Post [Issues](https://github.com/by-cloud/myblog/issues) if you have any issues.
 [peter](https://github.com/Yangxiamao)
 
 [Tesla Ice Zhang](https://ice1000.org/)
+
+[Alendia](https://github.com/Alendia)
+
+[叶子](https://misaka-9936.github.io/)

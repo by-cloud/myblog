@@ -6,8 +6,6 @@ date: 2020-10-20 21:20:47
 
 The auther of this site is [me](https://github.com/by-cloud). An undergraduate student in Computer Science and Mathematics. Studied in China Mainland and United States. Focus on scripting, coding, research and games.
 
-I am free.
-
 My [story](https://stackoverflow.com/story/by-cloud) and my [CV](https://stackoverflow.com/cv/by-cloud).
 
 ### $0 = this site

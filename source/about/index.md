@@ -20,10 +20,16 @@ Post [Issues](https://github.com/by-cloud/myblog/issues) if you have any issues.
 
 ## Friends
 
-[peter](https://github.com/Yangxiamao)
+[peter](https://Yangxiamao.github.io)
 
 [Tesla Ice Zhang](https://ice1000.org/)
 
 [Alendia](https://github.com/Alendia)
 
 [清尘](https://gzg.me)
+
+[Dark flames](https://dark-flames.com/)
+
+[Inoki](https://blog.inoki.cc/)
+
+[Edward Elric](https://edward40.com)

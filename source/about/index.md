@@ -33,3 +33,7 @@ Post [Issues](https://github.com/by-cloud/myblog/issues) if you have any issues.
 [Inoki](https://blog.inoki.cc/)
 
 [Edward Elric](https://edward40.com)
+
+[Mischa "Matchy" Volynskaya](https://matchy233.github.io/)
+
+[小和酱](https://blog.dmcimi.top)

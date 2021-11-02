@@ -20,13 +20,9 @@ Post [Issues](https://github.com/by-cloud/myblog/issues) if you have any issues.
 
 ## Friends
 
-[peter](https://Yangxiamao.github.io)
-
 [Tesla Ice Zhang](https://ice1000.org/)
 
-[Alendia](https://github.com/Alendia)
-
-[清尘](https://gzg.me)
+[peter](https://Yangxiamao.github.io)
 
 [Dark flames](https://dark-flames.com/)
 
@@ -35,5 +31,3 @@ Post [Issues](https://github.com/by-cloud/myblog/issues) if you have any issues.
 [Edward Elric](https://edward40.com)
 
 [Mischa "Matchy" Volynskaya](https://matchy233.github.io/)
-
-[小和酱](https://blog.dmcimi.top)
